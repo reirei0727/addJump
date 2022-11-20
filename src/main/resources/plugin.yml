@@ -1,0 +1,4 @@
+name: AddJump
+version: '${project.version}'
+main: addjump.addjump.AddJump
+api-version: 1.19

@@ -1,0 +1,4 @@
+name: AddJump
+version: '1.0-SNAPSHOT'
+main: addjump.addjump.AddJump
+api-version: 1.19
